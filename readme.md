@@ -12,6 +12,18 @@ They don't even work in all versions of Android (as [deviceorientation is broken
 
 Eventually I'll polish my demos enough and put them (along with the full website) up here.
 
+---
+
+## HELP!
+
+If you're having any problems, let me know through the issues on this repository.
+
+### Everything is grey in my world!
+
+By default the camera is looking towards the "floor". If you're on Chrome on a computer, you'll need to drag around to look.
+
+---
+
 ## What's included?
 
 Currently there are 4 (5 including the menu!) demos:
