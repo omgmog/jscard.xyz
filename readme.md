@@ -10,7 +10,7 @@ Right now, they only work in a very specific configuration: **Chrome on Android*
 
 They don't even work in all versions of Android (as [deviceorientation is broken in Chrome on Android 6.0 on the Nexus 5](https://code.google.com/p/chromium/issues/detail?id=540629).)
 
-Eventually I'll polish my demos enough and put them (along with the full website) up here.
+You can find the source for these demos [here](https://github.com/omgmog/talk-jsoxford-20-minutes-into-the-future/tree/master/demos), but eventually I'll polish my demos enough and put them (along with the full website) up here.
 
 ---
 
