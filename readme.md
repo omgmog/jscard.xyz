@@ -1,10 +1,12 @@
 # jscard.xyz
+## These demos haven't been updated since 2015... so YMMV
+
 
 ![](https://i.imgur.com/lVmV3DH.png)
 
 ## What the?
 
-[jscard.xyz](https://jscard.xyz) is a collection of Javascript-powered VR demos that I've made for Google Cardboard.
+[jscard.xyz](https://blog.omgmog.net/jscard.xyz) is a collection of Javascript-powered VR demos that I've made for Google Cardboard.
 
 Right now, they only work in a very specific configuration: **Chrome on Android**
 
